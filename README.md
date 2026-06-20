@@ -214,9 +214,11 @@ Feel free to fork the repository and submit pull requests.
 ## 👨‍💻 Author
 
 ### **Mayank Khadse**
+B-Tech Electronics & Telecommunication Engineering
+Suryodaya College of Engineering and Technology (RTMNU), Nagpur
 
-- GitHub: https://github.com/mayankkhadse
-- LinkedIn: YOUR_LINKEDIN_PROFILE
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mayank-khadse)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mayankkhadse)
 
 ---
 
