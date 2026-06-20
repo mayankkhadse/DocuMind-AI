@@ -12,7 +12,7 @@
 
 Upload one or multiple PDFs and chat with them using advanced Retrieval-Augmented Generation (RAG).
 
-🌐 **Live Demo:** [Click Here](YOUR_STREAMLIT_APP_LINK)
+🌐 **Live Demo:** [Click Here](https://b5jqn6wgpausaey8fuzmnx.streamlit.app/)
 
 </div>
 
@@ -179,6 +179,16 @@ This project is deployed using **Streamlit Community Cloud**.
 | Dashboard | Single PDF | Multiple PDFs |
 |-----------|------------|----------------|
 | ![](images/dashboard.png) | ![](images/single-pdf-answer.png) | ![](images/multi-pdf-answer.png) |
+
+---
+
+## 🚀 Live Application
+
+Experience DocuMind AI live:
+
+👉 **Streamlit App:** [Click Here](https://b5jqn6wgpausaey8fuzmnx.streamlit.app/)
+
+The application is deployed on Streamlit Community Cloud and can process multiple PDFs in real time using Groq-powered Retrieval-Augmented Generation (RAG).
 
 ---
 
